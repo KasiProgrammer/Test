@@ -20,7 +20,7 @@ fdstore.ga.tracking.id=UA-20535945-1
 feature.rollout.carttabcars=GLOBAL:ENABLED,true;
 feature.rollout.carttabcars=GLOBAL:ENABLED,false;COHORT:C1;
 
-
+npm run server
 git add -A && git commit -m 'Committing'.
 
 
